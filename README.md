@@ -1,2 +1,3 @@
 # csgo-config
-CS:GO config when I play in internet cafe
+
+Cheers my friends. For all of you, are at privilege to witness the birth of the chaos.
